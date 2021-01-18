@@ -1,0 +1,68 @@
+
+*{
+    margin: 15px;
+    padding: 5px;
+}
+
+#metas{
+    background-color: lightskyblue;
+}
+
+header{
+    height: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align:justify;
+    color: black;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+ul{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.container{
+    margin: auto;
+}
+
+#subtitulo{
+    text-align: center;
+}
+
+#subMenu{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+#midia{
+    text-align: center;
+}
+
+#visaoGeral{
+    min-height: 200px;
+}
+
+#midiaIndustria{
+    text-align: center;
+    min-height: 200px;
+}
+
+#metas{
+    padding: 30px;
+}
+
+#texto{
+    background-image: url(industriaopaca.png);
+    background-position: center top;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
